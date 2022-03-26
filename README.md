@@ -6,4 +6,4 @@
 3. result
 Original Image    
 :-------------------------:
-![](https://github.com/ronnie0726/Joint-Bilateral-Filter/blob/main/testdata/1.png)  |    ![](https://github.com/ronnie0726/Scale-Invariant-Feature-Detection/blob/main/Dog%20Image/1-1.png) |   ![](https://github.com/ronnie0726/Scale-Invariant-Feature-Detection/blob/main/result/1.png)
+![](https://github.com/ronnie0726/Joint-Bilateral-Filter/blob/main/testdata/1.png) 
