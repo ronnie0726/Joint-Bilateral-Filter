@@ -3,6 +3,7 @@
 
 1. Given a color image, a set of weight combination corresponds to a grayscale image candidate.
 2. Measuring the perceptual similarity by Joint bilateral filter.
+3. Identify which candidate is the best.
 
 Original Image        |  Grayscale image with highest cost        |  Grayscale image with lowest cost
 :-------------------------:|:-------------------------:|:------------------:
